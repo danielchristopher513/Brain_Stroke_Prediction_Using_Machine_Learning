@@ -71,7 +71,7 @@ So it's clear that the project has the required resource feasibility.
 - Based on the performance metrics a Model is voted as the predictive model
 - All future predictions are made based on this predictive model - whether a person will have a brain stroke or not based on the parameters entered.
 
-![](Aspose.Words.6ccad4c8-2e27-4970-ae0e-5b002cadb6bf.001.png)
+![](.png)
 
 
 **References**
