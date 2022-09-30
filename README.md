@@ -71,7 +71,7 @@ So it's clear that the project has the required resource feasibility.
 - Based on the performance metrics a Model is voted as the predictive model
 - All future predictions are made based on this predictive model - whether a person will have a brain stroke or not based on the parameters entered.
 
-![](High_level_architexture diagram.png)
+![alt High_level_architexture diagram](https://github.com/danielchristopher513/Data_analytics_team_atom/blob/main/High_level_architexture%20diagram.png)
 
 
 **References**
